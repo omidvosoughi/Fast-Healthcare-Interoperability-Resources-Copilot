@@ -1,0 +1,9 @@
+pip
+fastapi
+# flash_attn==2.6.3
+pydantic
+Requests
+transformers
+torch
+uvicorn
+accelerate
