@@ -30,7 +30,7 @@ The project is organized into the following directories and files:
 - **Contents**: 
   - All Vue.js components, assets, and configuration files necessary to build and run the frontend of the application.
 
-### `/model_cache`
+### `/model_cache`: (If this directory does not exist, please create a new folder named `model_cache` and download and place both [Phi-3-mini-4k-instruct](https://drive.google.com/drive/folders/1nZlwLlidMqp_Pw-MhLT7y6TVHEU9Y72N?usp=sharing) and [biobert-base-cased-v1.1](https://drive.google.com/drive/folders/1SUbpT7rSLpK9XYfHy1BPsKMzzcHBzOQy?usp=sharing) into this folder. This step prevents the models from being automatically downloaded during runtime, reducing the time required to run the application.)
 - **Description**: This directory includes downloaded pretrained models from Hugging Face.
 - **Contents**: 
   - The pretrained models and tokenizers that are used for text generation and text embedding processes. Caching these models locally helps avoid repeated downloads, enhancing performance and reducing latency.
