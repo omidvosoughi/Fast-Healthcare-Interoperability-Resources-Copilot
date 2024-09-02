@@ -121,12 +121,12 @@ The project is organized into the following directories and files:
   ```
   - Install the Frontend:
   ```bash
-  npm run serve
+  cd frontend
+  npm install
   ```
   - Running the Frontend:
   ```bash
-  cd frontend
-  npm install
+  npm run serve
   ```
   - Running the Backend:
   ```bash
