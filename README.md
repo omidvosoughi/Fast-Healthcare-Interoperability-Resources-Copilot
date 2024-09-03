@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository serves as a comprehensive toolbox designed to assist healthcare professionals and developers in automating the extraction, mapping, and validation of clinical entities from clinical notes. The toolbox functions as a copilot by leveraging state-of-the-art pretrained language models and established healthcare standards.
+This repository serves as a comprehensive toolbox designed to automize the extraction, mapping, and validation of clinical entities from clinical notes. The toolbox functions as a copilot by leveraging state-of-the-art pretrained language models and established healthcare standards.
 
 ### Key Features
 
